@@ -1,0 +1,32 @@
+Ýsim: Merve Yavuz 
+Yaþ: 32 
+ Boy: 160
+, Kilo: 75
+ Vücut Kitle Ýndeksi: 0.0 
+ Aralýk: zayýf
+Tarih: Mon Aug  5 18:20:28 2024
+
+Ýsim: Ahmet Þahin 
+Yaþ: 54 
+ Boy: 90
+, Kilo: 90
+ Vücut Kitle Ýndeksi: 0.0 
+ Aralýk: zayýf
+Tarih: Mon Aug  5 18:20:51 2024
+
+Ýsim: Sude Aslan 
+Yaþ: 23 
+ Boy: 153
+, Kilo: 54
+ Vücut Kitle Ýndeksi: 0.0 
+ Aralýk: zayýf
+Tarih: Mon Aug  5 18:21:09 2024
+
+Ýsim: Alper Soykan 
+Yaþ: 15 
+ Boy: 175
+, Kilo: 50
+ Vücut Kitle Ýndeksi: 0.0 
+ Aralýk: zayýf
+Tarih: Mon Aug  5 18:21:27 2024
+
